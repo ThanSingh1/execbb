@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 10px 0;
+}
+.navbar-nav li {
+    display: inline;
+    margin: 0 10px;
+}
+.sidebar-nav li {
+    list-style-type: none;
+}
